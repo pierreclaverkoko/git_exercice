@@ -1,3 +1,6 @@
 {
- 'version':'0.0.1'
+ 'project_name':'Pharmacie',
+ 'author':'Pierre-Claver K. Banywerha',
+ 'version':'0.0.1',
+ 'license':'none'
 }
